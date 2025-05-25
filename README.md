@@ -7,4 +7,4 @@
 - **Graphical Interface**: Built using Java Swing for an intuitive UI.
 - **Light & Dark Mode**: Customize the theme for better visibility.
 
-## 🔧 Installation
+
